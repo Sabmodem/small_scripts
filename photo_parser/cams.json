@@ -1,0 +1,44 @@
+[
+  {
+    "prefix": "P",
+    "range": 50,
+    "width": 4,
+    "spec": 6
+  },
+  {
+    "prefix": "1",
+    "range": 100,
+    "width": 2,
+    "spec": 9
+  },
+  {
+    "prefix": "dc",
+    "range": 4000,
+    "width": 4,
+    "spec": 14
+  },
+  {
+    "prefix": "",
+    "range": 30,
+    "width": 4,
+    "spec": 17
+  },
+  {
+    "prefix": "",
+    "range": 50,
+    "width": 3,
+    "spec": 18
+  },
+  {
+    "prefix": "1",
+    "range": 100,
+    "width": 2,
+    "spec": 21
+  },
+  {
+    "prefix": "IMG_",
+    "range": 4000,
+    "width": 4,
+    "spec": 25
+  }
+]
